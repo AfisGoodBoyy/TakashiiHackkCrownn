@@ -31,7 +31,7 @@ const GoStumble = (code, auth) => new Promise((resolve, reject) => {
      ██    ██    ██    ██ ██  ██  ██ ██   ██ ██      ██            
 ███████    ██     ██████  ██      ██ ██████  ███████ ███████    
 
-𝘽𝙔 : REGZZY
+𝘽𝙔 : TakashiiHackCrown
                                                     
 
 By : ${chalk.red('@RegzyGGWP&& Dkmpostor')} - ${chalk.blue('@RegaXiPetani/')}
@@ -75,11 +75,11 @@ Features :
 Sabar Memek Delay Biar Ga Ban!! 
 
 ♨  [${moment().format('HH:mm:ss')}]  -
-→  ${chalk.magenta(`Negara By Regzzy : ${country}`)}
-→  ${chalk.yellow(`Nama By Regzzy : ${username}`)}
-→  ${chalk.cyan(`Exp By Regzzy: ${exp}`)}  
-→  ${chalk.blue(`Tropy By Regzzy : ${trophy}`)}  
-→  ${chalk.bgRed(`Crown By Regzzy : ${crown}`)}
+→  ${chalk.magenta(`Negara By Takashii : ${country}`)}
+→  ${chalk.yellow(`Nama By Takashii : ${username}`)}
+→  ${chalk.cyan(`Exp By Takashii : ${exp}`)}  
+→  ${chalk.blue(`Tropy By Taakashii : ${trophy}`)}  
+→  ${chalk.bgRed(`Crown By Takashii : ${crown}`)}
 →  ${chalk.bgGreen(`Status : ✔ Success`)}`);
         await delay(time);
 
